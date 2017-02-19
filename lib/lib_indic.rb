@@ -1,5 +1,5 @@
 require "lib_indic/version"
 
 module LibIndic
-  # Your code goes here...
+  autoload :Normalizer, "lib_indic/normalizer"
 end
