@@ -1,5 +1,7 @@
 # LibIndic
 
+[![Build Status](https://travis-ci.org/tachyons/lib_indic-ruby.svg?branch=master)](https://travis-ci.org/tachyons/lib_indic-ruby)
+
 LibIndic is an Indic language processing applications library. It consists of a web framework and a set of applications for processing Indian languages
 
 ## Installation
